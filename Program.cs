@@ -1,4 +1,16 @@
-﻿using System;
+﻿/****************************
+ * EXERCÍCIO: O Caos na Cantina (Lista 01)
+ * DISCIPLINA: Interação Humano Computador e UX
+ * PROFESSOR: Daniel Henrique Matos de Paiva
+ * * ALUNOS (Equipe): [Seu Nome], [Colega 1], [Colega 2], [Colega 3], [Colega 4]
+ * * APLICAÇÃO DAS HEURÍSTICAS DE NIELSEN:
+ * 1. Heurística #1 (Status do Sistema): Linhas 31, 57 e 77. 
+ * Uso de cabeçalhos "[Passo X de 3]" informando o progresso.
+ * * 2. Heurística #3 (Controle e Liberdade): Linhas 41, 62 e 82. 
+ * Tratamento de strings "voltar" e "cancelar" para navegação entre etapas.
+ * * 3. Heurística #9 (Ajuda e Erros): Linhas 49 e 69. 
+ * Mensagens amigáveis para códigos inexistentes (1-10) e validação de números.
+ ****************************/using System;
 
 int etapa = 1;
 int codigoProduto = 0;
