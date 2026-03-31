@@ -2,7 +2,7 @@
  * EXERCÍCIO: O Caos na Cantina (Lista 01)
  * DISCIPLINA: Interação Humano Computador e UX
  * PROFESSOR: Daniel Henrique Matos de Paiva
- * * ALUNOS (Equipe): [Seu Nome], [Colega 1], [Colega 2], [Colega 3], [Colega 4]
+ * * ALUNOS (Equipe): [Samuel Franco], [Natali Fialho], [Ana Luiza], [Ana Furst]
  * * APLICAÇÃO DAS HEURÍSTICAS DE NIELSEN:
  * 1. Heurística #1 (Status do Sistema): Linhas 31, 57 e 77. 
  * Uso de cabeçalhos "[Passo X de 3]" informando o progresso.
